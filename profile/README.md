@@ -2,7 +2,7 @@
 
 ![Innoloft - Building the leading B2B tech ecosystem](https://img.innoloft.com/company_headers/header_8ef9f40c.png)
 
-The Innoloft network nurtures innovation by connecting the most innovative players across all tech industries. Our network is designed to dismantle barriers between corporates, investors and startups globally and to bring economic opportunities to light. We developed specific formats to find customers, new technologies, development partners or investment cases in a completely digital environment, establishing a top-level B2B platform. Our formats support our users with innovation scouting, partner acquisition and lead generation. Join now and create tomorrow together!
+Innoloft is a software technology company that builds business platform infrastructure. Organizations use our B2B platform building solution LoftOS to configure their digital platforms within a day - no coding required.  Our customizable platform modules can be combined to suit different use cases. Economic ministries, clusters, research organizations, and leading corporations use our platform building solution to create digital ecosystems, innovation and research transfer communities, industry marketplaces and innovation management platforms. With our software-as-a-service solution, we solve the most common problems of high development cost and time for own platform development, while also reducing the risk of failing with our flexible and proven solution.
 
 Interested in more? [Check out our homepage!](https://innoloft.com)
 
