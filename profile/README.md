@@ -1,8 +1,8 @@
 ## Hi there, we are Innoloft 👋
 
-![Innoloft - Building the leading B2B tech ecosystem](https://img.innoloft.com/company_headers/header_8ef9f40c.png)
+![Innoloft - We make coding as easy as PowerPoint!](https://img.innoloft.com/company_headers/header_8ef9f40c.png)
 
-Innoloft is a software technology company that builds business platform infrastructure. Organizations use our B2B platform building solution LoftOS to configure their digital platforms within a day - no coding required.  Our customizable platform modules can be combined to suit different use cases. Economic ministries, clusters, research organizations, and leading corporations use our platform building solution to create digital ecosystems, innovation and research transfer communities, industry marketplaces and innovation management platforms. With our software-as-a-service solution, we solve the most common problems of high development cost and time for own platform development, while also reducing the risk of failing with our flexible and proven solution.
+Innoloft offers LoftOS, a no-code development platform enabling everyone to build web applications like networks, marketplaces or internal tools - without a single line of code.
 
 Interested in more? [Check out our homepage!](https://innoloft.com)
 
