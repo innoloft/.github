@@ -1,6 +1,6 @@
 ## Hi there, we are Innoloft 👋
 
-![Innoloft - We make coding as easy as PowerPoint!](https://img.innoloft.com/company_headers/header_8ef9f40c.png)
+![Innoloft - Welcome!](https://img.innoloft.com/common/welcome/Innoloft_Welcome_Graphic-small.png)
 
 Innoloft offers LoftOS, a no-code development platform enabling everyone to build web applications like networks, marketplaces or internal tools - without a single line of code.
 
