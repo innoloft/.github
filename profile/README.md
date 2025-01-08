@@ -1,6 +1,6 @@
 ## Hi there, we are Innoloft 👋
 
-![Innoloft - Launch faster with LoftOS!](https://img.innoloft.com/common/launch_web_applications_10x_faster_with_loftos.png)
+![Innoloft - Launch faster with LoftOS!](https://img.innoloft.com/common/logo-background.jpeg)
 
 Innoloft offers LoftOS, a no-code development platform enabling everyone to build web applications like networks, marketplaces or internal tools - without a single line of code.
 
