@@ -2,7 +2,7 @@
 
 ![Innoloft - Launch faster with LoftOS!](https://img.innoloft.com/common/logo-background.jpeg)
 
-Innoloft offers LoftOS, a no-code development platform enabling everyone to build web applications like networks, marketplaces or internal tools - without a single line of code.
+Innoloft offers LoftOS, an AI no-code builder that enables organizations to create more valuable relationships with customers, members, partners, and the communities they serve. Build custom platforms that drive engagement, generate revenue and streamline workflows by improving communication, networking, and knowledge-sharing.
 
 Interested in more? [Check out our homepage!](https://innoloft.com)
 
